@@ -4,4 +4,5 @@ Files uploaded in this repository are transcipts of Herbert Marcuses lectures ta
 Transciptcs of videos are made using OpenAI Whisper software.
 Contact me for any licensing issues.
 
-Further transcripts and translationn are planned in future.
+Files are uploaded in .txt file type
+Further transcripts and translations are planned in future.
